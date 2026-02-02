@@ -13,13 +13,13 @@ Numpy `1.26.4` <br />
 matplotlib `3.8.3` <br />
 scipy `1.12.0` <br />
 
-## Matlab environment: <br />
+## Matlab: <br />
 Matlab `R2024A` <br />
 
-## R environment: <br />
+## R: <br />
 R `4.5.2` <br />
 
-## Shell environment: <br />
+## Shell: <br />
 GNU bash `version 3.2.57(1)-release (arm64-apple-darwin25)` <br />
 
 <br />
