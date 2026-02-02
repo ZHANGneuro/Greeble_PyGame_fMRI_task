@@ -5,8 +5,25 @@ Related to paper entitled "Spatially Periodic Computation in the Entorhinal-Hipp
 https://elifesciences.org/reviewed-preprints/107517
 
 ## Python environment: <br />
-python `3.9` <br />
+Python `3.9` <br />
 PyGame `2.6.1` <br />
+Plotly `5.20.0` <br />
+Pandas `2.2.1` <br />
+Numpy `1.26.4` <br />
+matplotlib `3.8.3` <br />
+scipy `1.12.0` <br />
+
+## Matlab environment: <br />
+Matlab `R2024A` <br />
+
+## Matlab environment: <br />
+Matlab `R2024A` <br />
+
+## R environment: <br />
+R `4.5.2` <br />
+
+## Shell environment: <br />
+GNU bash `version 3.2.57(1)-release (arm64-apple-darwin25)` <br />
 
 <br />
 Script `main.py` is the main script.<br />
